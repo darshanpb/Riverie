@@ -1,4 +1,4 @@
-# Getting Started with Reactive
+# Getting Started with Reverie
 
 A React Components Library using Typescript.
 
