@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/live_demo/node_modules
+/live_demo/build
 
 # testing
 /coverage
