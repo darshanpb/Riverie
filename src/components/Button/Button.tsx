@@ -37,12 +37,12 @@ const Button = ({
   label,
 }: ButtonProps) => {
   const mode = primary
-    ? "storybook-button--primary"
-    : "storybook-button--secondary";
+    ? "riverie-button--primary"
+    : "riverie-button--secondary";
   return (
     <button
       type="button"
-      className={["storybook-button", `storybook-button--${size}`, mode].join(
+      className={["riverie-button", `riverie-button--${size}`, mode].join(
         " "
       )}
       style={backgroundColor ? { backgroundColor }: {}}

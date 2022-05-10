@@ -1,4 +1,4 @@
-.storybook-button {
+.riverie-button {
     font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 700;
     border: 0;
@@ -7,24 +7,24 @@
     display: inline-block;
     line-height: 1;
   }
-  .storybook-button--primary {
+  .riverie-button--primary {
     color: white;
     background-color: #1ea7fd;
   }
-  .storybook-button--secondary {
+  .riverie-button--secondary {
     color: #333;
     background-color: transparent;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
   }
-  .storybook-button--small {
+  .riverie-button--small {
     font-size: 12px;
     padding: 10px 16px;
   }
-  .storybook-button--medium {
+  .riverie-button--medium {
     font-size: 14px;
     padding: 11px 20px;
   }
-  .storybook-button--large {
+  .riverie-button--large {
     font-size: 16px;
     padding: 12px 24px;
   }
